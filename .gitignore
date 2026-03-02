@@ -1,0 +1,2 @@
+# 忽略 build 相关文件
+Step[0-9]*_build
